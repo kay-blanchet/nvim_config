@@ -3,7 +3,7 @@
 ### DOWNLOAD
 
 ```console
-git clone https://github.com/xrayxv9/xray_config ~/.config/nvim
+git clone https://github.com/kay-blanchet/nvim_config ~/.config/nvim
 
 ```
 
